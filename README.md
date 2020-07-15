@@ -2,7 +2,7 @@
 ##   Bem-vindo ao meu perfil 🖥
 
 - 📘 Ciência da Computação na Universidade Federal de Alagoas
-- 🔭 Trabalhando com desenvolvimento web.
+- 🔭 Desenvolvendo projetos em desenvolvimento web.
 - 🌱 Aprendendo React Native, ReactJS.
 - 🌎 Línguagens que conheço: C, Python, JavaScript, HTML, CSS.
 
