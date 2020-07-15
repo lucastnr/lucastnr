@@ -3,7 +3,7 @@
 
 - 📘 Ciência da Computação na Universidade Federal de Alagoas
 - 🔭 Desenvolvendo projetos em desenvolvimento web.
-- 🌱 Aprendendo React Native, ReactJS.
+- 🌱 Aprendendo React Native, ReactJS, Gatsby.
 - 🌎 Línguagens que conheço: C, Python, JavaScript, HTML, CSS.
 
 ## 📫 Como me alcançar:
