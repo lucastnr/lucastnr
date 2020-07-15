@@ -5,4 +5,6 @@
 - 🔭 Trabalhando com desenvolvimento web.
 - 🌱 Aprendendo React Native, ReactJS.
 - 🌎 Línguagens que conheço: C, Python, JavaScript, HTML, CSS.
-- 📫 How to reach me: ...
+
+## 📫 Como me alcançar:
+- **tnrlucas@gmail.com**
