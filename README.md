@@ -7,4 +7,4 @@
 - 🌎 Línguagens que conheço: C, Python, JavaScript, HTML, CSS.
 
 ## 📫 Como me alcançar:
-- **lucas.ol.tnr@gmail.com**
+**lucas.ol.tnr@gmail.com**
