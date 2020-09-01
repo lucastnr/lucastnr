@@ -3,8 +3,6 @@
 
 - 📘 Ciência da Computação na Universidade Federal de Alagoas
 - 🔭 Trabalhando em projetos de desenvolvimento web.
-- 🌱 Aprendendo React Native, ReactJS, Gatsby.
-- 🌎 Línguagens que conheço: C, Python, JavaScript, HTML, CSS.
 
 ## 📫 Como me alcançar:
  —  **lucas.ol.tnr@gmail.com**
