@@ -10,6 +10,6 @@
 -  🔷 [Linkedin](https://www.linkedin.com/in/lucas-ten%C3%B3rio-74502a1a1/)
 
 ### 📝 My stats
-<a href="#">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucastnr&show_icons=true" />
 </a>
