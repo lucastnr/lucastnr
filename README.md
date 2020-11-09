@@ -2,7 +2,7 @@
 
 ### 🙋🏽‍♂️ About me:
 - 📘 Computer Science at the Federal University of Alagoas (UFAL)
-- 🔭 Currently working with: Javascript, ThreeJS, ReactJS, NodeJS, Google Firebase.
+- 🔭 Currently working with: Javascript, ThreeJS, ReactJS, NodeJS, Google Firebase, API integrations.
 - 🌎 Languages i know: C, Python, JavaScript, HTML, CSS, Typescript.
 
 ### 📫 How to reach me:
