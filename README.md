@@ -1,6 +1,7 @@
 ## Hi, i'm Lucas :)
 
 ### 🙋🏽‍♂️ About me:
+- 📙 Learning more about Digital Accessibility each day.
 - 📘 Computer Science at the Federal University of Alagoas (UFAL)
 - 🔭 Currently working with: Javascript, Typescript, ThreeJS, ReactJS, NodeJS, Google Firebase, Google Cloud Platform, API integrations, Code Reviewing.
 - 🌎 Languages i know: C, Python, JavaScript, HTML, CSS, Typescript.
