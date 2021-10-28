@@ -9,7 +9,7 @@
 
 ### 📫 How to reach me:
 -  ✉️ [E-mail](mailto:lucas.ol.tnr@gmail.com)
--  🔷 [Linkedin](https://www.linkedin.com/in/lucas-ten%C3%B3rio-74502a1a1/)
+-  🔷 [LinkedIn](https://www.linkedin.com/in/lucas-ten%C3%B3rio-74502a1a1/)
 
 ### 📝 My stats
 <a href="https://github.com/lucastnr">
