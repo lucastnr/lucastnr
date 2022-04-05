@@ -3,7 +3,7 @@
 ### 🙋🏽‍♂️ About me:
 - 🖥️ Javascript / React lover.
 - 📘 Computer Science at the Federal University of Alagoas (UFAL)
-- 🔭 Currently working with: Javascript, Typescript, ReactJS, NodeJS, Google Firebase, Google Cloud Platform, API Integrations.
+- 🔭 Currently working with: Javascript, Typescript, ReactJS, NodeJS, Google Firebase, Google Cloud Platform, API Integrations, GraphQL, Apollo.
 
 ### 📫 How to reach me:
 -  ✉️ [E-mail](mailto:lucas.ol.tnr@gmail.com)
