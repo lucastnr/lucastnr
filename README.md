@@ -11,5 +11,5 @@
 
 ### 📝 My stats
 <a href="https://github.com/lucastnr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastnr" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastnr" />
 </a>
