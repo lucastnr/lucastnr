@@ -1,9 +1,9 @@
 ## Hi, i'm Lucas :)
 
 ### 🙋🏽‍♂️ About me:
-- 🖥️ Javascript / React lover.
+- 🖥️ Typescript / React enthusiast.
 - 📘 Computer Science at the Federal University of Alagoas (UFAL)
-- 🔭 Currently working with: Javascript, Typescript, ReactJS, NodeJS, Google Firebase, Google Cloud Platform, API Integrations, GraphQL, Apollo, Stripe API.
+- 🔭 Currently working with: Typescript, NextJS, React, NodeJS, Google Firebase, GraphQL, Apollo, Stripe API.
 
 ### 📫 How to reach me:
 -  ✉️ [E-mail](mailto:lucas.ol.tnr@gmail.com)
