@@ -2,7 +2,6 @@
 
 ### 🙋🏽‍♂️ About me:
 - 🖥️ Typescript / React enthusiast.
-- 📘 Computer Science at the Federal University of Alagoas (UFAL)
 - 🔭 Currently working with: Typescript, NextJS, React, NodeJS, Google Firebase, GraphQL, Apollo, Stripe API.
 
 ### 📫 How to reach me:
