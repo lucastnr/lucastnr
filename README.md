@@ -2,7 +2,15 @@
 
 ### 🙋🏽‍♂️ About me:
 - 🖥️ Typescript / React enthusiast.
-- 🔭 Currently working with: Typescript, NextJS, React, NodeJS, Google Firebase, GraphQL, Apollo, Stripe API.
+- 🔭 Currently working with: 
+  - Typescript
+  - NextJS
+  - NodeJS
+  - Google Firebase
+  - GraphQL
+  - Stripe API
+  - PostgreSQL
+  - MySQL
 
 ### 📫 How to reach me:
 -  ✉️ [E-mail](mailto:lucas.ol.tnr@gmail.com)
