@@ -1,4 +1,4 @@
-## Hi, i'm Lucas :)
+## Hi, I'm Lucas :)
 
 ### 🙋🏽‍♂️ About me:
 - 🖥️ Typescript / React enthusiast.
