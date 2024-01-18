@@ -4,13 +4,11 @@
 - 🖥️ Typescript Fullstack developer.
 - 🔭 Currently working with: 
   - Typescript
-  - NextJS
-  - NodeJS
+  - Next.js
+  - Node.js (Express, Nest, Firebase Functions Microservices)
   - Google Firebase
   - Stripe API
-  - PostgreSQL
-  - MySQL
-  - NoSQL
+  - SQL & NoSQL Databases
 
 ### 📫 How to reach me:
 -  ✉️ [E-mail](mailto:lucas.ol.tnr@gmail.com)
