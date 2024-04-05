@@ -1,7 +1,7 @@
 ## Hi, I'm Lucas :)
 
 ### 🙋🏽‍♂️ About me:
-- 🖥️ Typescript Fullstack developer.
+- 🖥️ Fullstack Developer.
 - 🔭 Currently working with: 
   - Typescript
   - Next.js
