@@ -5,7 +5,7 @@
 - 🔭 Currently working with: 
   - Typescript
   - Next.js
-  - Node.js (Express, Nest, Firebase Functions Microservices)
+  - Node.js (Express, Nest, Firebase Functions)
   - Google Firebase
   - Stripe API
   - SQL & NoSQL Databases
